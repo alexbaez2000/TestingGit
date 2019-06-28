@@ -17,4 +17,5 @@ This are the **files** contained in the **TestingGit** repository:
 
 ## Creator
 
-This **repository** is the proprety of **Alejandro Baez Corral**. CUALQUIER LOQUERA
+This **repository** is the proprety of **Alejandro Baez Corral**.
+Lol
